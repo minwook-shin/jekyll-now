@@ -16,10 +16,15 @@ permalink: /about/
 
 ### Contact me
 
+현재 깃허브와 런치패드에서 주로 활동하고 있습니다.
+
 Github : <https://www.github.com/minwook-shin>
+
+CV : <https://minwook-shin.github.io/minwook-cv>
 
 Launchpad : <https://launchpad.net/~minwook-shin>
 
 Linkedin : <https://www.linkedin.com/in/minwook-shin>
+
 
 기타 문의사항은 [minwook0106@gmail.com](mailto:minwook0106@gmail.com)으로 연락주세요.
