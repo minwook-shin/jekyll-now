@@ -21,7 +21,7 @@ footer-links:
   facebook: minwook.book
   github: minwook-shin
   instagram:
-  linkedin: 
+  linkedin: minwook-shin
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -31,7 +31,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: minwook-shins-tech-blog
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-111562232-1
