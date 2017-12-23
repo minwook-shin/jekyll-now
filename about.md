@@ -20,4 +20,6 @@ Github : <https://www.github.com/minwook-shin>
 
 Launchpad : <https://launchpad.net/~minwook-shin>
 
+Linkedin : <https://www.linkedin.com/in/minwook-shin>
+
 기타 문의사항은 [minwook0106@gmail.com](mailto:minwook0106@gmail.com)으로 연락주세요.
