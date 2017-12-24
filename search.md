@@ -1,8 +1,10 @@
- ---
- layout: page
- title: Search
- permalink: /search/
- ---
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+제 블로그의 글을 검색하기 위한 검색 페이지입니다.
  
  <div id="home-search" class="home">
    <script>
