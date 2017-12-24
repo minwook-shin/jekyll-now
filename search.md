@@ -2,8 +2,8 @@
  layout: page
  title: Search
  permalink: /search/
- sitemap: false
  ---
+ 
  <div id="home-search" class="home">
    <script>
        (function() {
