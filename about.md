@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="horizontal" data-theme="dark" data-vanity="minwook-shin"><a class="LI-simple-link" href='https://oo.linkedin.com/in/minwook-shin?trk=profile-badge'>신민욱</a></div>
+
 저는 국민대학교 소프트웨어학부에 재학중인 학생입니다.
 
 ### 추가 정보
