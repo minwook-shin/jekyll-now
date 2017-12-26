@@ -121,6 +121,8 @@ Adobe는 따로 무료로 제공하는 것이 없다해도, 할인 폭이 큽니
 
 다행히도(?) Jetbrains사에서 학생신분을 증명한다면 전 제품을 무료로 사용할 수 있습니다. 
 
+(1년 후 자격증명 갱신해줘야 된다고 알고있습니다. 유의해주시기 바랍니다.)
+
 * ReSharper Ultimate
 
 * IntelliJ IDEA Ultimate
