@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Series
-permalink: /series/
+title: Tag
+permalink: /tag/
 ---
 
 ## C++ Study 
