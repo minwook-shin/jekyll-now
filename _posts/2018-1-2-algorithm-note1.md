@@ -63,7 +63,7 @@ title: 알고리즘 공부-1
 
 ## 알고리즘 예시
 
-```C++
+```c++
 void algorithm(int a[], int n){
     for (int i = 0; i < n; i++){
         // c1
