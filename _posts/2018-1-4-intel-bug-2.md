@@ -98,7 +98,7 @@ AMD reports that their processors are not affected.
 
 * 영향을 받는 우분투 버전
 
-end-of-life(지원 중단)된 버전을 제외하면 대부분 패치됨을 알 수 있습니다.
+end-of-life(지원 중단)된 버전을 제외하면 대부분 DNE(do not exist)인 상태입니다.
 
 
 ## 결론
