@@ -12,7 +12,7 @@ title: 인텔 Page Table Isolation (PTI) 버그 후속편
 https://www.fool.com/investing/2017/12/19/intels-ceo-just-sold-a-lot-of-stock.aspx
 
 
-다만, 인텔 coe관련 내용은 Offical이 아니므로, 독자 여러분의 주의를 필요로 합니다.
+다만, 인텔 CEO 관련 의혹 내용들은 Official이 아니므로, 독자 여러분의 주의를 필요로 합니다.
 
 ## 인텔 공식 입장
 
