@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 인텔 Page Table Isolation (PTI) 버그 후속푠
+title: 인텔 Page Table Isolation (PTI) 버그 후속편
 ---
 
 인텔 Page Table Isolation (PTI) 버그에 대한 글은 어제 자(1월 3일)로 최초 작성했지만, 오늘 포스팅은 그 이후 벌어진 이야기와 슬슬 나오고 있는 업계의 대응과 결론을 적어보려 합니다.
