@@ -20,6 +20,9 @@ permalink: /tag/
 
 * [알고리즘 공부-3](https://minwook-shin.github.io/algorithm-note3/)
 
+* [알고리즘 공부-4](https://minwook-shin.github.io/algorithm-note4/)
+
+
 ## Tip 게시물
 
 * [우분투 한국어 번역해보기](https://minwook-shin.github.io/ubuntu-translation/)
