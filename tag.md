@@ -31,6 +31,8 @@ permalink: /tag/
 
 * [대학생 IT 혜택 받기](https://minwook-shin.github.io/it-student/)
 
+* [오픈소스 문서 만들기](https://minwook-shin.github.io/github-docs/)
+
 ## IT 이슈 게시물
 
 * [인텔 Page Table Isolation (PTI) 버그 후속편](https://minwook-shin.github.io/intel-bug-2/)
