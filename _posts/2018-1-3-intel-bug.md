@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 인텔 Page Table Isolation (PTI) 버그
+title: 인텔 멜트다운 버그
 ---
 
 안녕하세요. 오늘은 원래 딴 주제로 포스팅을 하려고 했으나, 갑자기 인텔 버그 이슈가 터져서 정리 포스팅을 해보려 합니다.
@@ -67,3 +67,5 @@ Newer Intel CPUs with PCID should also help in ensuring less of a performance im
 ## 추가 사항
 
 추가로 AMD의 AMD RYZEN 시리즈에는 문제가 발견되지 않았으나, 버그 수정코드에 이를 반영하지 않고 AMD CPU까지 적용하는 바람에 같이 성능하락을 당하고 있다고 합니다. 아마도 곧 수정 될 듯합니다. 
+
+> 2018.01.09 : 인텔 버그명을 멜트다운으로 정정하였습니다.
