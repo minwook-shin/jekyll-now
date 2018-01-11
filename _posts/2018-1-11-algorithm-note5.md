@@ -47,13 +47,13 @@ using namespace std;
 
 int main() {
 	stack<int> stack_1;
-	stack_1.push(10);
-	stack_1.push(20);
-	stack_1.push(30);
-	stack_1.push(40);
+	stack_1.push(10); // IN 10
+	stack_1.push(20); // IN 20
+	stack_1.push(30); // IN 30
+	stack_1.push(40); // IN 40
 
 	stack<int> view= stack_1;
-	while (!view.empty()) {
+	while (!view.empty()) { // 출력 코드
 		cout << view.top() << "\t";
 		view.pop();
 	}
@@ -62,6 +62,10 @@ int main() {
 	return 0;
 }
 ```
+
+결과는 40 30 20 10 그리고 크기인 4가 같이 출력됩니다.
+
+나중에 넣은 숫자가 먼저 나오면서 시작됩니다.
 
 ## 큐
 
@@ -87,19 +91,21 @@ int main()
 {
 	queue<int> sample;
 
-	sample.push(10);
-	sample.push(20);
-	sample.push(30);
-	sample.push(40);
-	sample.push(50);
+	sample.push(10); // IN 10
+	sample.push(20); // IN 20
+	sample.push(30); // IN 30
+	sample.push(40); // IN 40
+	sample.push(50); // IN 50
 
-	while (!sample.empty()) {
+	while (!sample.empty()) { // 출력 코드
 		cout << sample.front() << "\t";
 		sample.pop();
 	}
 	return 0;
 }
 ```
+
+결과는 10 20 30 40 50 으로 먼저 넣은 숫자가 먼저 출력됩니다.
 
 ## 문자열을 넣으려면
 
