@@ -24,7 +24,7 @@ permalink: /minwook-cv/
 
 ## Skill
 
-* Programming : Python, Java, C++, Html, Bash, Latex
+* Programming : Python, C++, Java, Html, Bash, Latex
 
 * Languages : Korean, English
 
@@ -44,7 +44,29 @@ permalink: /minwook-cv/
 
 ### Maintainer
 
-* [My github repositories](https://www.github.com/minwook-shin?tab=repositories)
+* q2a-korean-translation : Question2Answer 1.7.X~1.8.X korean package 
+
+* phpbb-korean : PHPBB 3.2.x Korean Language Packs 
+
+* kookmin-university-home : Googlde Chrome extension of Kookmin University
+
+* RUR-PLE-korean-project : RUR-PLE(Python learning program) korean package
+
+* win10block : Removing Windows 10 Updater for Windows 7 and Windows 8 
+
+* ubuntu-ko-irc-in-python : Watch the ubuntu-ko(on irclogs.ubuntu.com) irc channel
+
+* ubuntu-online-tour-korean : Ubuntu online tour korean version
+
+* hangul-database : Hangul (korean) mysql database (DB) project 
+
+* ubuntu-korea-l10n-workshop : Ubuntu korea community l10n workshop textbook
+
+* ubuntu-korea-cpp-study-book : Ubuntu Korean Community C++ Basic Study Textbook
+
+* ubuntu-code-of-conduct-kr : Ubuntu code of conduct korean version
+
+* [And etc](https://www.github.com/minwook-shin?tab=repositories)...
 
 ### Contributor
 
@@ -72,7 +94,7 @@ permalink: /minwook-cv/
 
 and more...
 
-## Event Organizer
+## Event Organizers
 
 * Ubuntu korea L10n workshop
 
@@ -90,5 +112,13 @@ and more...
 
 * Easy and funny Ubuntu translation starting with LaunchPad
 
-## CV License
-This CV is licensed under the GPL3 License - see the LICENSE file for details
+## Translation
+
+* Ubuntu
+
+* Openstack
+
+* Mozila
+
+* MDN
+
