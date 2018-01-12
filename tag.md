@@ -22,6 +22,8 @@ permalink: /tag/
 
 * [알고리즘 공부-4](https://minwook-shin.github.io/algorithm-note4/)
 
+* [알고리즘 공부-5](https://minwook-shin.github.io/algorithm-note5/)
+
 
 ## Tip 게시물
 
@@ -35,11 +37,13 @@ permalink: /tag/
 
 ## IT 이슈 게시물
 
-* [인텔 Page Table Isolation (PTI) 버그 후속편](https://minwook-shin.github.io/intel-bug-2/)
+* [인텔 멜트다운 버그 후속편](https://minwook-shin.github.io/intel-bug-2/)
 
-* [인텔 Page Table Isolation (PTI) 버그](https://minwook-shin.github.io/intel-bug/)
+* [인텔 멜트다운 버그](https://minwook-shin.github.io/intel-bug/)
 
-## 2017년 회고 게시물
+* [인텔 멜트다운 버그 패치방법](https://minwook-shin.github.io/meltdown-patch/)
+
+## 회고 게시물
 
 * [2017년 동안 뭘 했는가](https://minwook-shin.github.io/for-2017/)
 
