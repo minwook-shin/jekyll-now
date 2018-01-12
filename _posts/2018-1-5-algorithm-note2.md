@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 알고리즘 공부-2
+title: 알고리즘 공부-2 (string class)
 ---
 
 오늘도 전에 올린 알고리즘 공부 1편과 마찬가지로, C++ 자료구조를 배우기위해서 먼저 string class에 대한 내용을 공부해보았습니다.
