@@ -103,7 +103,7 @@ Get-Command와 Get-Content가 작동됩니다.
 
 그리고 닷넷에 기반되어 있으므로 자체적으로 변수에 할당한 배열을 ```.```을 이용하여
 
-```PowerShell
+```powerShell
 $list = 1..5
 1
 2
