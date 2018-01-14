@@ -28,6 +28,8 @@ permalink: /minwook-cv/
 
 * Languages : Korean, English
 
+* ect : Linux, Git
+
 ## Open Source Community Experience
 
 * Ubuntu korea community local wiki manager [2015.05 ~ 2017.03]
@@ -40,7 +42,7 @@ permalink: /minwook-cv/
 
 * Mozilla pontoon korean contributor [2017.12 ~ ]
 
-## Open Source Contributions
+## Open Source Contributions Experience
 
 ### Maintainer
 
@@ -108,11 +110,11 @@ and more...
 
 * Q2a Official Korean Translation Story
 
-* Gaming on ubuntu 2 
+* Gaming on ubuntu 2
 
 * Easy and funny Ubuntu translation starting with LaunchPad
 
-## Translation
+## Translation Experience
 
 * Ubuntu
 
@@ -121,4 +123,3 @@ and more...
 * Mozila
 
 * MDN
-
