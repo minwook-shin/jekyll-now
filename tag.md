@@ -10,6 +10,8 @@ permalink: /tag/
 
 * [C++ study 두번째 과제](https://minwook-shin.github.io/cppstudy-hw2/)
 
+* [C++ study 세번째 과제](https://minwook-shin.github.io/cppstudy-hw3/)
+
 * [C++ study 첫 모임](https://minwook-shin.github.io/cppstudy-first/)
 
 ## 알고리즘 게시물
@@ -34,6 +36,8 @@ permalink: /tag/
 * [대학생 IT 혜택 받기](https://minwook-shin.github.io/it-student/)
 
 * [오픈소스 문서 만들기](https://minwook-shin.github.io/github-docs/)
+
+* [파워셀 6.0 리눅스에 설치해보기](https://minwook-shin.github.io/linux-powershell/)
 
 ## IT 이슈 게시물
 
