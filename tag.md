@@ -12,7 +12,7 @@ permalink: /tag/
 
 * [C++ study 세번째 과제](https://minwook-shin.github.io/cppstudy-hw3/)
 
-* [C++ study 첫 모임](https://minwook-shin.github.io/cppstudy-first/)
+* [C++ study 첫 모임 후기](https://minwook-shin.github.io/cppstudy-first/)
 
 ## 알고리즘 게시물
 
@@ -25,6 +25,8 @@ permalink: /tag/
 * [알고리즘 공부-4](https://minwook-shin.github.io/algorithm-note4/)
 
 * [알고리즘 공부-5](https://minwook-shin.github.io/algorithm-note5/)
+
+* [알고리즘 공부-6](https://minwook-shin.github.io/algorithm-note6/)
 
 
 ## Tip 게시물
