@@ -16,17 +16,19 @@ permalink: /tag/
 
 ## 알고리즘 게시물
 
-* [알고리즘 공부-1](https://minwook-shin.github.io/algorithm-note1/)
+* [알고리즘 공부-1 (기초)](https://minwook-shin.github.io/algorithm-note1/)
 
-* [알고리즘 공부-2](https://minwook-shin.github.io/algorithm-note2/)
+* [알고리즘 공부-2 (스트링 클래스)](https://minwook-shin.github.io/algorithm-note2/)
 
-* [알고리즘 공부-3](https://minwook-shin.github.io/algorithm-note3/)
+* [알고리즘 공부-3 (미로 탐색)](https://minwook-shin.github.io/algorithm-note3/)
 
-* [알고리즘 공부-4](https://minwook-shin.github.io/algorithm-note4/)
+* [알고리즘 공부-4 (링크드리스트)](https://minwook-shin.github.io/algorithm-note4/)
 
-* [알고리즘 공부-5](https://minwook-shin.github.io/algorithm-note5/)
+* [알고리즘 공부-5 (스택, 큐)](https://minwook-shin.github.io/algorithm-note5/)
 
-* [알고리즘 공부-6](https://minwook-shin.github.io/algorithm-note6/)
+* [알고리즘 공부-6 (트리)](https://minwook-shin.github.io/algorithm-note6/)
+
+* [알고리즘 공부-7 (재귀)](https://minwook-shin.github.io/algorithm-note7/)
 
 
 ## Tip 게시물
