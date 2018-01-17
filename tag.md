@@ -30,6 +30,8 @@ permalink: /tag/
 
 * [알고리즘 공부-7 (재귀)](https://minwook-shin.github.io/algorithm-note7/)
 
+* [알고리즘 공부-8 (정렬)](https://minwook-shin.github.io/algorithm-note8/)
+
 
 ## Tip 게시물
 
