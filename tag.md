@@ -32,6 +32,8 @@ permalink: /tag/
 
 * [알고리즘 공부-8 (정렬)](https://minwook-shin.github.io/algorithm-note8/)
 
+* [알고리즘 공부-9 (검색)](https://minwook-shin.github.io/algorithm-note9/)
+
 
 ## Tip 게시물
 
