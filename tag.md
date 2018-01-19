@@ -47,6 +47,8 @@ permalink: /tag/
 
 * [파워셀 6.0 리눅스에 설치해보기](https://minwook-shin.github.io/linux-powershell/)
 
+* [구글 크롬 확장프로그램 만들기](https://minwook-shin.github.io/chrome-extension/)
+
 ## IT 이슈 게시물
 
 * [인텔 멜트다운 버그 후속편](https://minwook-shin.github.io/intel-bug-2/)
