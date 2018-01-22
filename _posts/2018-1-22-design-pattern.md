@@ -70,7 +70,7 @@ public class single_instance {
 
 첫번째 인스턴스의 생성자를 만들어서 위에 만들어둔 정수형 변수인 i를 조작합니다.
 
-```
+```java
 public class single_instance2 {
 	public single_instance2() {
 		single_class test = single_class.getinstance();
