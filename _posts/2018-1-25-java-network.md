@@ -1,6 +1,6 @@
 ---
 layout: post
-title: java network
+title: java network 실습해보기
 ---
 
 자바가 다른 언어에 비해 네트워크 기능이 뛰어나다고 합니다.
