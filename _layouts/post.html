@@ -8,8 +8,9 @@ layout: default
   <div class="entry">
     {{ content }}
   </div>
-{% include advertisements.html %}
+
   <div class="date">
+    {% include advertisements.html %}
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
