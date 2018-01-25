@@ -34,6 +34,18 @@ permalink: /tag/
 
 * [알고리즘 공부-9 (검색)](https://minwook-shin.github.io/algorithm-note9/)
 
+## java 게시물
+
+* [java network 실습해보기](https://minwook-shin.github.io/java-network/)
+
+* [java thread 실습해보기](https://minwook-shin.github.io/java-thread/)
+
+* [java collection 실습해보기](https://minwook-shin.github.io/java-collection/)
+
+* [java 디자인 패턴 실습해보기](https://minwook-shin.github.io/design-pattern/)
+
+* [java 기초 복습하기](https://minwook-shin.github.io/review-java/)
+
 
 ## Tip 게시물
 
