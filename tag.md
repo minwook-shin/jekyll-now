@@ -36,6 +36,8 @@ permalink: /tag/
 
 ## java 게시물
 
+* [java arraylist 구현해보기](https://minwook-shin.github.io/java-arraylist/)
+
 * [java network 실습해보기](https://minwook-shin.github.io/java-network/)
 
 * [java thread 실습해보기](https://minwook-shin.github.io/java-thread/)
