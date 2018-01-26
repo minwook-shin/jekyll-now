@@ -48,7 +48,6 @@ permalink: /tag/
 
 * [java 기초 복습하기](https://minwook-shin.github.io/review-java/)
 
-
 ## Tip 게시물
 
 * [우분투 한국어 번역해보기](https://minwook-shin.github.io/ubuntu-translation/)
