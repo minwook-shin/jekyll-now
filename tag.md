@@ -36,6 +36,8 @@ permalink: /tag/
 
 ## java 게시물
 
+* [java doubly linkedlist 알아보기](https://minwook-shin.github.io/java-doubly-linkedlist/)
+
 * [java linkedlist 구현해보기](https://minwook-shin.github.io/java-linkedlist/)
 
 * [java arraylist 구현해보기](https://minwook-shin.github.io/java-arraylist/)
