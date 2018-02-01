@@ -3,7 +3,7 @@ layout: post
 title: java adapter pattern 실습해보기
 ---
 
-지난번에 디자인 패턴을 포스팅했을때 singleton과 strategy pattern만 배워서 오늘부터 다른 패턴도 알아보려고 합니다.
+지난번에 [디자인 패턴을 포스팅했을때](https://minwook-shin.github.io/design-pattern/) singleton과 strategy pattern만 배워서 오늘부터 다른 패턴도 알아보려고 합니다.
 
 adapter pattern은 작성한 클래스를 사용자에 맞춰서 인터페이스를 제작하는 방식으로, 호환성이 없는 인터페이스 때문에 동작할 수 없는 클래스들이 함께 작동하도록 해줍니다.
 
