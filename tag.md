@@ -14,6 +14,8 @@ permalink: /tag/
 
 * [C++ study 첫 모임 후기](https://minwook-shin.github.io/cppstudy-first/)
 
+* [C++ study 마지막 모임 정리](https://minwook-shin.github.io/cppstudy-last/)
+
 ## 알고리즘 게시물
 
 * [알고리즘 공부-1 (기초)](https://minwook-shin.github.io/algorithm-note1/)
@@ -35,6 +37,10 @@ permalink: /tag/
 * [알고리즘 공부-9 (검색)](https://minwook-shin.github.io/algorithm-note9/)
 
 ## java 게시물
+
+* [java Template Method Pattern 실습해보기](https://minwook-shin.github.io/template-method-pattern/)
+
+* [java adapter pattern 실습해보기](https://minwook-shin.github.io/adapter-pattern/)
 
 * [java doubly linkedlist 알아보기](https://minwook-shin.github.io/java-doubly-linkedlist/)
 
