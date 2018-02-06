@@ -38,6 +38,10 @@ permalink: /tag/
 
 ## java 게시물
 
+* [java Prototype pattern 실습해보기](https://minwook-shin.github.io/prototype-pattern/)
+
+* [java Factory Method Pattern 실습해보기](https://minwook-shin.github.io/factory-method-pattern/)
+
 * [java Template Method Pattern 실습해보기](https://minwook-shin.github.io/template-method-pattern/)
 
 * [java adapter pattern 실습해보기](https://minwook-shin.github.io/adapter-pattern/)
