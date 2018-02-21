@@ -38,6 +38,36 @@ permalink: /tag/
 
 ## java 게시물
 
+* [java Command pattern 실습해보기](https://minwook-shin.github.io/command-pattern/)
+
+* [java Proxy pattern 실습해보기](https://minwook-shin.github.io/proxy-pattern/)
+
+* [java Flyweight pattern 실습해보기](https://minwook-shin.github.io/flyweight-pattern/)
+
+* [java Memento pattern 실습해보기](https://minwook-shin.github.io/memento-pattern/)
+
+* [java State pattern 실습해보기](https://minwook-shin.github.io/state-pattern/)
+
+* [java Mediator pattern 실습해보기](https://minwook-shin.github.io/mediator-pattern/)
+
+* [java Observer pattern 실습해보기](https://minwook-shin.github.io/observer-pattern/)
+
+* [java Facade pattern 실습해보기](https://minwook-shin.github.io/facade-pattern/)
+
+* [java Chain of responsibility pattern 실습해보기](https://minwook-shin.github.io/chain-of-responsibility/)
+
+* [java Visitor pattern 실습해보기](https://minwook-shin.github.io/visitor-pattern/)
+
+* [java Decorator pattern 실습해보기](https://minwook-shin.github.io/decorator-pattern/)
+
+* [java Composite Pattern 실습해보기](https://minwook-shin.github.io/composite-pattern/)
+
+* [java Bridge Pattern 실습해보기](https://minwook-shin.github.io/bridge-pattern/)
+
+* [java Abstract factory Pattern 실습해보기](https://minwook-shin.github.io/abstract-factory-pattern/)
+
+* [java Builder Pattern 실습해보기](https://minwook-shin.github.io/builder-pattern/)
+
 * [java Prototype pattern 실습해보기](https://minwook-shin.github.io/prototype-pattern/)
 
 * [java Factory Method Pattern 실습해보기](https://minwook-shin.github.io/factory-method-pattern/)
