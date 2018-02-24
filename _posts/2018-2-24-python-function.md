@@ -44,7 +44,7 @@ def 이름 (인자):
 
 ## 타 용어와 차이점
 
-반환 타입이 명시되어 있지않아서 단순하게 반환이 없다면 수행문만 수행합니다.
+반환 타입이 명시되어 있지않아서 단순하게 반환이 없다면 암묵적으로 None 객체를 반환하며 수행문을 수행합니다.
 
 ## 함수 호출 형식
 
@@ -52,7 +52,12 @@ def 이름 (인자):
 
 * call by reference : 함수에 인자를 넘길 때 주소값을 넘깁니다.
 
-파이썬에서는 객체의 주소가 함수로 전달하기 때문에 전달된 객체를 참고할 때만 호출자에게 영향을 줍니다.
+파이썬에서는 call by assignment 형식으로 호출하며 객체의 주소가 함수로 전달하기 때문에 전달된 객체를 참고할 때만 호출자에게 영향을 줍니다.
+
+또한 immutable object와 mutable object로 나누어져 있어서 각각 int, float, str, tuple과 set, list, dict가 해당됩니다.
+
+참고로 immutable 객체는 처음에는 call by reference로 받지만 값이 변경되면 call by value로 동작하고,
+mutable 객체는 call by reference로 동작합니다.
 
 ```python
 def func(temp):
@@ -141,3 +146,5 @@ print_name(name = "name",age = 20, "hello,", "world")
 ```
 
 키워드 가변 인자라고해서 파라미터의 이름을 지정하지 않고 입력할 수도 있습니다.
+
+> (update : call by assignment 관련내용 추가 및 일부 정정)
