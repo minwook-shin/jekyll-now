@@ -48,7 +48,7 @@ def 이름 (인자):
 
 ## 함수 호출 형식
 
-* call by value : 함수에 인자를 넘길 떄 값만 넘깁니다.
+* call by value : 함수에 인자를 넘길 때 값만 넘깁니다.
 
 * call by reference : 함수에 인자를 넘길 때 주소값을 넘깁니다.
 
