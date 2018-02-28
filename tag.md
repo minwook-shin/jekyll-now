@@ -92,6 +92,18 @@ permalink: /tag/
 
 * [java 기초 복습하기](https://minwook-shin.github.io/review-java/)
 
+## Python 게시물
+
+* [Bitwise operator 알아보기](https://minwook-shin.github.io/python-logging/)
+
+* [Python function 알아보기](https://minwook-shin.github.io/python-oop/)
+
+* [Python Data Structure 알아보기](https://minwook-shin.github.io/python-data-structure/)
+
+* [Python oop 알아보기](https://minwook-shin.github.io/python-function/)
+
+* [Python logging 알아보기](https://minwook-shin.github.io/python-function/)
+
 ## Tip 게시물
 
 * [우분투 한국어 번역해보기](https://minwook-shin.github.io/ubuntu-translation/)
