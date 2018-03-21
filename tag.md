@@ -130,6 +130,6 @@ permalink: /tag/
 
 * [2017년 동안 뭘 했는가](https://minwook-shin.github.io/for-2017/)
 
-## 그 외
+## 그 외 게시물
 
 * [이 곳](https://minwook-shin.github.io/)에서 보실 수 있습니다.
