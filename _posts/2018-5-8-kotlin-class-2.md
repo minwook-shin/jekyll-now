@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kotlin의 class에 대하여 알아보기 1
+title: Kotlin의 class에 대하여 알아보기 2
 ---
 
 오늘은 코틀린에서의 class 상속과 인터페이스에 대하여 알아보려 합니다.
