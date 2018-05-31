@@ -3,6 +3,8 @@ layout: post
 title: 최소 비용 신장 트리 Kruskal 알고리즘에 대하여 알아보기
 ---
 
+오늘은 최소 비용 신장 트리 Kruskal 알고리즘에 대하여 알아보겠습니다.
+
 ## 개요
 
 Kruskal 알고리즘은 가중치가 높은 간선을 제거하며 최소 비용 신장 트리, 즉 minimum cost spanning tree를 만들거나,
