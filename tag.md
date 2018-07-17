@@ -1,135 +1,18 @@
 ---
 layout: page
-title: Tag
+title: tag
 permalink: /tag/
 ---
 
-## C++ Study 게시물
-
-* [C++ study 첫번째 과제](https://minwook-shin.github.io/cppstudy-hw1/)
-
-* [C++ study 두번째 과제](https://minwook-shin.github.io/cppstudy-hw2/)
-
-* [C++ study 세번째 과제](https://minwook-shin.github.io/cppstudy-hw3/)
-
-* [C++ study 첫 모임 후기](https://minwook-shin.github.io/cppstudy-first/)
-
-* [C++ study 마지막 모임 정리](https://minwook-shin.github.io/cppstudy-last/)
-
-## 알고리즘 게시물
-
-* [알고리즘 공부-1 (기초)](https://minwook-shin.github.io/algorithm-note1/)
-
-* [알고리즘 공부-2 (스트링 클래스)](https://minwook-shin.github.io/algorithm-note2/)
-
-* [알고리즘 공부-3 (미로 탐색)](https://minwook-shin.github.io/algorithm-note3/)
-
-* [알고리즘 공부-4 (링크드리스트)](https://minwook-shin.github.io/algorithm-note4/)
-
-* [알고리즘 공부-5 (스택, 큐)](https://minwook-shin.github.io/algorithm-note5/)
-
-* [알고리즘 공부-6 (트리)](https://minwook-shin.github.io/algorithm-note6/)
-
-* [알고리즘 공부-7 (재귀)](https://minwook-shin.github.io/algorithm-note7/)
-
-* [알고리즘 공부-8 (정렬)](https://minwook-shin.github.io/algorithm-note8/)
-
-* [알고리즘 공부-9 (검색)](https://minwook-shin.github.io/algorithm-note9/)
-
-## java 게시물
-
-* [java Command pattern 실습해보기](https://minwook-shin.github.io/command-pattern/)
-
-* [java Proxy pattern 실습해보기](https://minwook-shin.github.io/proxy-pattern/)
-
-* [java Flyweight pattern 실습해보기](https://minwook-shin.github.io/flyweight-pattern/)
-
-* [java Memento pattern 실습해보기](https://minwook-shin.github.io/memento-pattern/)
-
-* [java State pattern 실습해보기](https://minwook-shin.github.io/state-pattern/)
-
-* [java Mediator pattern 실습해보기](https://minwook-shin.github.io/mediator-pattern/)
-
-* [java Observer pattern 실습해보기](https://minwook-shin.github.io/observer-pattern/)
-
-* [java Facade pattern 실습해보기](https://minwook-shin.github.io/facade-pattern/)
-
-* [java Chain of responsibility pattern 실습해보기](https://minwook-shin.github.io/chain-of-responsibility/)
-
-* [java Visitor pattern 실습해보기](https://minwook-shin.github.io/visitor-pattern/)
-
-* [java Decorator pattern 실습해보기](https://minwook-shin.github.io/decorator-pattern/)
-
-* [java Composite Pattern 실습해보기](https://minwook-shin.github.io/composite-pattern/)
-
-* [java Bridge Pattern 실습해보기](https://minwook-shin.github.io/bridge-pattern/)
-
-* [java Abstract factory Pattern 실습해보기](https://minwook-shin.github.io/abstract-factory-pattern/)
-
-* [java Builder Pattern 실습해보기](https://minwook-shin.github.io/builder-pattern/)
-
-* [java Prototype pattern 실습해보기](https://minwook-shin.github.io/prototype-pattern/)
-
-* [java Factory Method Pattern 실습해보기](https://minwook-shin.github.io/factory-method-pattern/)
-
-* [java Template Method Pattern 실습해보기](https://minwook-shin.github.io/template-method-pattern/)
-
-* [java adapter pattern 실습해보기](https://minwook-shin.github.io/adapter-pattern/)
-
-* [java doubly linkedlist 알아보기](https://minwook-shin.github.io/java-doubly-linkedlist/)
-
-* [java linkedlist 구현해보기](https://minwook-shin.github.io/java-linkedlist/)
-
-* [java arraylist 구현해보기](https://minwook-shin.github.io/java-arraylist/)
-
-* [java network 실습해보기](https://minwook-shin.github.io/java-network/)
-
-* [java thread 실습해보기](https://minwook-shin.github.io/java-thread/)
-
-* [java collection 실습해보기](https://minwook-shin.github.io/java-collection/)
-
-* [java 디자인 패턴 실습해보기](https://minwook-shin.github.io/design-pattern/)
-
-* [java 기초 복습하기](https://minwook-shin.github.io/review-java/)
-
-## Python 게시물
-
-* [Bitwise operator 알아보기](https://minwook-shin.github.io/python-logging/)
-
-* [Python function 알아보기](https://minwook-shin.github.io/python-oop/)
-
-* [Python Data Structure 알아보기](https://minwook-shin.github.io/python-data-structure/)
-
-* [Python oop 알아보기](https://minwook-shin.github.io/python-function/)
-
-* [Python logging 알아보기](https://minwook-shin.github.io/python-function/)
-
-## Tip 게시물
-
-* [우분투 한국어 번역해보기](https://minwook-shin.github.io/ubuntu-translation/)
-
-* [깃허브로 쉽게 블로그 만들기](https://minwook-shin.github.io/github-blog/)
-
-* [대학생 IT 혜택 받기](https://minwook-shin.github.io/it-student/)
-
-* [오픈소스 문서 만들기](https://minwook-shin.github.io/github-docs/)
-
-* [파워셀 6.0 리눅스에 설치해보기](https://minwook-shin.github.io/linux-powershell/)
-
-* [구글 크롬 확장프로그램 만들기](https://minwook-shin.github.io/chrome-extension/)
-
-## IT 이슈 게시물
-
-* [인텔 멜트다운 버그 후속편](https://minwook-shin.github.io/intel-bug-2/)
-
-* [인텔 멜트다운 버그](https://minwook-shin.github.io/intel-bug/)
-
-* [인텔 멜트다운 버그 패치방법](https://minwook-shin.github.io/meltdown-patch/)
-
-## 회고 게시물
-
-* [2017년 동안 뭘 했는가](https://minwook-shin.github.io/for-2017/)
-
-## 그 외 게시물
-
-* [이 곳](https://minwook-shin.github.io/)에서 보실 수 있습니다.
+<!-- from http://www.mitsake.net/2012/04/archives-in-jekyll/ -->
+
+{% for post in site.posts %}
+{% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+{% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+{% if month != nmonth %}
+{% if forloop.index != 1 %}</ul>{% endif %}
+<h3>{{ post.date | date: '%Y년 %m월' }}</h3><ul>
+{% endif %}
+<li> <a href="{{ post.url }}">{{ post.title }}, {{ post.author }}</a>  <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span></li>
+ 
+{% endfor %}
