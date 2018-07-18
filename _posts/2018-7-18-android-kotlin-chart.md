@@ -24,14 +24,14 @@ jitpack.io 저장소를 활성화해주고, 해당 주소를 implementation로 d
 ## 레이아웃
 
 ```xml
-<com.github.mikephil.charting.charts.PieChart
+<com.github.mikephil.charting.charts.BarChart
     android:id="@+id/pie"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 />
 ```
 
-위 xml 코드는 PieChart를 예시로 추가한 모습입니다.
+위 xml 코드는 BarChart를 예시로 추가한 모습입니다.
 
 
 ## 엑티비티
