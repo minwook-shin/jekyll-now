@@ -16,6 +16,8 @@ permalink: /minwook-cv/
 
 * Launchpad : <https://launchpad.net/~minwook-shin>
 
+* Blog : <http://minwook-shin.github.io>
+
 ## Education
 
 * Kookmin university (2017 ~ )
