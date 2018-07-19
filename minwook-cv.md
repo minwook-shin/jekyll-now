@@ -22,6 +22,12 @@ permalink: /minwook-cv/
 
 * Computer Science (Software Major)
 
+## Experience
+
+* ZERO FOUNDERS (2018.06 ~ 2018.08, Kookmin University summer vacation Intern)
+
+Develop inventory management Android (Kotlin) application for this company
+
 ## Skill
 
 * Programming : Python, C++, Java, Html, Bash, Latex
