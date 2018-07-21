@@ -26,7 +26,7 @@ calculate() 메소드로 계산을 하면 기본적으로 소수점이 붙어서
 
 ```kotlin
 val a = Expression("2018^7-21*100");
-mXparser.consolePrintln(a.calculate());
+mXparser.consolePrintln(a.calculate().toString());
 ```
 
 mXparser에서 콘솔 출력을 consolePrintln 메소드로 제공해줍니다.
