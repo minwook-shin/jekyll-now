@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 코틀린으로 작성한 안드로이드에서 fragment를 이용한 viewpager 사용하기
+title: 코틀린으로 작성한 안드로이드에서 fragment를 이용해 viewpager 사용하기
 ---
 
 오늘은 안드로이드에서 여러 fragment를 이용하여 viewpager를 사용해보는 것을 코틀린을 통하여 합니다.
