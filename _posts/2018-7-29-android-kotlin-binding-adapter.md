@@ -9,7 +9,7 @@ title: 코틀린으로 작성한 안드로이드 바인딩어댑터 사용하기
 
 기존에 data binding을 적용했던 빌드 설정을 하시면 됩니다.
 
-```java
+```xml
 apply plugin: 'kotlin-kapt'
 ```
 
