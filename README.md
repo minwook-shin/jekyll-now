@@ -1,6 +1,10 @@
 # minwook-shin's tech blog
 used Jekyll Now.
 
+## Link
+
+https://minwook-shin.github.io
+
 ----
 ### Credits
 
