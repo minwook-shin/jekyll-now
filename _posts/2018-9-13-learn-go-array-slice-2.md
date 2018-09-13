@@ -31,8 +31,8 @@ import (
 )
 
 func main() {
-	var multiArr = [2][3]int{{1,2,3},{4,5,6}}
-	fmt.Println(multiArr)
+	var multiArr [2][3]int
+	fmt.Println(multiArr)	
 }
 ```
 
