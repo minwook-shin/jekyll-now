@@ -77,9 +77,11 @@ type test struct {
 func main() {
     b3, _ := json.Marshal(test{"title", "hello world! go!",0})
     var str3 test
-    json.Unmarshal(b3, &str)
+    json.Unmarshal(b3, &str3)
     fmt.Println(str3.Title, str3.Text, str3.Index)
 }
 ```
 
 읽어들인 json을 문자열로 해독해서 각각의 구조체의 필드로 데이터를 조회할 수 있습니다.
+
+> update : 10월 2일자로 오타를 수정하였습니다. 알려주셔서 감사합니다.
