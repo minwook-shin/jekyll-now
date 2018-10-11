@@ -16,6 +16,21 @@ smartlocation라고 불리는 라이브러리를 사용하면 간단히 사용�
 
 app.gradle 파일에 위와 같이 smartlocation 라이브러리와 위치 관련 구글 플레이 서비스를 같이 넣어줍니다.
 
+## 권한
+
+```xml
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+<uses-permission android:name="android.permission.INTERNET"/>
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+```
+
+manifest에 해당 권한을 추가해줍니다.
+
+만약 안드로이드 6.0이상이라면 따로 권한을 요청하는 작업이 필요합니다.
+
+해당 작업은 이전에 작성한 [권한에 대한 포스팅](https://minwook-shin.github.io/android-kotlin-request-permissions/)을 참고하시면 됩니다.
+
 ## GPS 시작
 
 ```kotlin
