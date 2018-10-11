@@ -26,7 +26,7 @@ title: 코틀린 프로젝트로 안드로이드에서 OpenStreetMap 쉽게 사�
 
 안드로이드 6.0 이상부터는 따로 권한을 요청하는 작업이 필요합니다.
 
-해당 작업은 이전에 작성한 [권한에 대한 포스팅](https://minwook-shin.github.io/android-kotlin-request-permissions/)을 찹고하시면 됩니다.
+해당 작업은 이전에 작성한 [권한에 대한 포스팅](https://minwook-shin.github.io/android-kotlin-request-permissions/)을 참고하시면 됩니다.
 
 ## 레이아웃 
 
