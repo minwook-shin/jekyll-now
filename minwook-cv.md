@@ -28,7 +28,7 @@ permalink: /minwook-cv/
 
 * ZERO FOUNDERS (2018.06 ~ 2018.08, Kookmin University summer vacation Intern)
 
-Develop inventory management Android (Kotlin) application
+Developed Android (Kotlin) application
 
 ## Skill
 
