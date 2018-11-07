@@ -38,6 +38,20 @@ Develop inventory management Android (Kotlin) application
 
 * ect : Linux, Git, tex
 
+## Side project
+
+* moim-android - AR, SNS app
+
+* moim-node - HTML / CSS / JavaScript + Typescript + express + ejs + bulma.io
+
+* moim-open-api - Golang rest api
+
+* offline-sns-android - offline SNS app
+
+* kookmin-university-home - Chrome Extension app
+
+* etc...
+
 ## Writing
 
 * Thanos Gauntlets Algorithm With Python - Coauthor
