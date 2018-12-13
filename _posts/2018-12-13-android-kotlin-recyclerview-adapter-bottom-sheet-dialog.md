@@ -47,7 +47,7 @@ BottomSheetDialog를 Recyclerview adapter ViewHolder에서 각각의 데이터�
 ## 클래스
 
 ```kotlin
-class Fragment: BottomSheetDialogFragment(){
+class CFragment: BottomSheetDialogFragment(){
     override fun setupDialog(dialog: Dialog?, style: Int) {
         super.setupDialog(dialog, style)
         val contentView = View.inflate(context, R.layout.fragment_infomation, null)
@@ -61,7 +61,7 @@ class Fragment: BottomSheetDialogFragment(){
 ## adapter에서 사용
 
 ```kotlin
-val bottomSheetDialogFragment = Fragment()
+val bottomSheetDialogFragment = CFragment()
 bottomSheetDialogFragment.show(supportFragmentManager, bottomSheetDialogFragment.tag)
 ```
 
@@ -70,7 +70,7 @@ bottomSheetDialogFragment.show(supportFragmentManager, bottomSheetDialogFragment
 그래서 RecyclerView Adapter 객체를 쓰는 엑티비티에서 FragmentManager를 인자로 받아와야 합니다.
 
 ```kotlin
-class RecyclerViewAdapter(val context: Context, val dataSet: ArrayList<TimelineModel>,fragmentManager : FragmentManager) : RecyclerView.Adapter<RecyclerView.ViewHolder>() 
+class RecyclerViewAdapter(val context: Context, val dataSet: ArrayList<Model>,fragmentManager : FragmentManager) : RecyclerView.Adapter<RecyclerView.ViewHolder>() 
 ```
 
 생성자로 해당 클래스에서 사용할 수 있도록 변수화합니다.
@@ -101,7 +101,7 @@ ViewHolder 클래스에서 버튼 클릭 리스너를 만들어 누르면 Bottom
 private inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
     fun bind(data: Model, fragmentManager: FragmentManager) {
         itemView.button.setOnClickListener {
-            val bottomSheetDialogFragment = Fragment(data)
+            val bottomSheetDialogFragment = CFragment(data)
             bottomSheetDialogFragment.show(fragmentManager, bottomSheetDialogFragment.tag)
         }
     }
