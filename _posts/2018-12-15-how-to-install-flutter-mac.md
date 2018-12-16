@@ -41,7 +41,7 @@ $ export PATH=$PATH:`pwd`/flutter/bin
 $ vim $HOME/.bash_profile
 ```
 
-만약 zsh를 사영하고 있다면 $HOME/.zshrc에서 작성합니다.
+만약 zsh를 사용하고 있다면 $HOME/.zshrc에서 작성합니다.
 
 ```bash
 $ vim $HOME/.zshrc
