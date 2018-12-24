@@ -69,13 +69,11 @@ class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: OutlineButton(
-          onPressed: () {
-            launch('https://www.google.com');
-          },
-          child: Text('홈페이지 링크'),
-        ),
+      body: OutlineButton(
+        onPressed: () {
+          launch('https://www.google.com');
+        },
+        child: Text('홈페이지 링크'),
       ),
     );
   }
@@ -83,4 +81,3 @@ class MainPage extends StatelessWidget {
 ```
 
 OutlineButton을 누르면 url_launcher 패키지의 launch메소드에 의해서 링크가 외부 브라우저로 넘어갑니다.
-
