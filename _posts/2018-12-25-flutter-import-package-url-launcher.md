@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flutter로 패키지 사용해보기
+title: flutter로 패키지 가져와서 사용해보기
 ---
 
 오늘은 flutter로 외부 패키지를 사용해보려 합니다.
