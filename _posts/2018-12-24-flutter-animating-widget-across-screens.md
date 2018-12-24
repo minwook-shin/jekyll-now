@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/flutter/website/master/src/_includes/code/layo
 
 ## pubspec.yaml 작성하기
 
-우선 노드js의 npm처험 패키지 매니저를 사용할 수 있습니다.
+우선 노드js의 npm처럼 패키지 매니저를 사용할 수 있습니다.
 
 패키지의 이름이나 버전 그리고 의존성 패키지들을 관리할 수 있습니다.
 
