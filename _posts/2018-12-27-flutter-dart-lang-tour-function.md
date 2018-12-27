@@ -3,7 +3,7 @@ layout: post
 title: flutter에서 사용하는 dart 언어의 함수 알아보기
 ---
 
-오늘은 flutter에서 사용하는 dart언어를 알아보려 합니다.
+오늘도 flutter에서 사용하는 dart언어를 알아보려 합니다.
 
 이번 포스팅에서는 함수에 대해서 작성합니다.
 
