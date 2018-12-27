@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flutter에서 사용하는 dart 언어의 변수와 타입 알아보기
+title: flutter에서 사용하는 dart 언어의 함수 알아보기
 ---
 
 오늘은 flutter에서 사용하는 dart언어를 알아보려 합니다.
