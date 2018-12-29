@@ -1,13 +1,13 @@
 ---
 layout: post
-title: flutter를 맥에 설치하고 앱 빌드하기
+title: flutter를 리눅스에 설치하고 앱 빌드하기
 ---
 
-오늘은 flutter 1.0 stable이 나온지 얼마 안되서 한번 체험해보고자 실습하면서 포스팅을 작성했습니다.
+오늘은 지난번에 작성한 "flutter를 맥에 설치하는 포스팅"을 리눅스에서 설치하는 방법으로 다시 작성해보았습니다.
 
-포스팅에서는 mac을 기준으로 설명하지만, 윈도우나 리눅스도 sdk받고 실행해서 doctor로 의존성 검사하는 과정은 비슷합니다.
+이 포스팅은 맥에서 설치하는 과정과 매우 비슷하나, 설치해야 되는 의존성과 필요없는 ios 빌드 설정을 생략하였습니다.
 
-다만, 윈도우와 리눅스는 안드로이드 스튜디오로 안드로이드 앱만 빌드할 수 있습니다.
+ios 앱을 빌드하려면 이전에 작성한 "맥에 설치하기" 포스팅을 보시면 됩니다.
 
 ## flutter란
 
@@ -38,19 +38,25 @@ $ export PATH=$PATH:`pwd`/flutter/bin
 경로를 계속 유지하려면 $HOME/.bash_profile에서 작성합니다.
 
 ```bash
-$ vim $HOME/.bash_profile
+$ vim .bash_profile
 ```
 
 만약 zsh를 사용하고 있다면 $HOME/.zshrc에서 작성합니다.
 
 ```bash
-$ vim $HOME/.zshrc
+$ vim .zshrc
 ```
 
-아래 코드를 .bash_profile(혹은 .zshrc)의 하단에 입력합니다.
+아래 코드를 .bash_profile(혹은 .zshrc) 파일의 하단에 입력합니다.
 
 ```
-export PATH="$HOME/flutter/bin:$PATH"
+$ export PATH=$PATH:flutter/bin
+```
+
+위 코드를 입력하고 .bash_profile(혹은 .zshrc)를 저장했다면 아래 명령어를 수행해줍니다.
+
+```bash
+$ source $HOME/.bash_profile
 ```
 
 ## flutter 업그레이드하기
@@ -63,6 +69,20 @@ $ flutter upgrade
 
 ## flutter doctor 실행하기
 
+일단 flutter doctor를 수행하기 전에 
+
+```
+bash, mkdir, rm, git, curl, unzip, which, xz-utils
+```
+
+위 도구들이 작동해야 합니다.
+
+보통은 git과 curl만 설치해주면 대부분 모든 도구가 있게됩니다.
+
+```dart
+$ sudo apt install git curl
+```
+
 ```bash
 $ flutter doctor
 ```
@@ -72,6 +92,12 @@ $ flutter doctor
 처음 수행하면 다트 언어에 대한 sdk가 자동으로 설치되며, flutter 도구를 빌드합니다.
 
 flutter doctor를 수행해서 부족한 점이 발견되면 missing 경고를 띄우며 설치 방식을 안내합니다.
+
+리눅스에서는 lib32stdc++6 의존성을 따로 설치해야 할 수도 있습니다.
+
+```bash
+$ sudo apt install lib32stdc++6 
+``` 
 
 부족한 의존성을 설치하고, 다시 flutter doctor를 수행해서 확인해야 합니다.
 
@@ -85,64 +111,16 @@ $ flutter config --no-analytics
 
 ## 플랫폼 설치
 
-맥은 Flutter로 안드로이드, ios앱을 만들 수 있으므로 두 플랫폼을 설치하고 설정합니다.
-
-## iOS 설정하기
-
-Xcode를 설치하시고, 아래와 같이 터미널에 입력합니다.
-
-```bash
-$ sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
-```
-
-Xcode를 처음 설치했다면 라이선스 동의를 해야 할 수도 있습니다.
-
-```bash
-$ sudo xcodebuild -license
-```
-
-## iOS 시뮬레이터 설정하기
-
-```bash
-$ open -a Simulator
-$ flutter run
-```
-
-시뮬레이터로 빌드하려면 위와 같이 작성하고 프로젝트 폴더에서 run해주면 됩니다.
-
-## iOS 기기 배포하기
-
-ios 기기에서 테스트하기 위해 배포를 하려면 사전설치가 필요합니다.
-
-```bash
-$ brew update
-
-$ brew install --HEAD usbmuxd
-$ brew link usbmuxd
-$ brew install --HEAD libimobiledevice
-$ brew install ideviceinstaller ios-deploy cocoapods
-$ pod setup
-```
-
-brew로 라이브러리를 설치해주고, brew doctor를 수행합니다.
-
-```bash
-$ brew doctor
-```
-
-이후에 타 ios 빌드처럼 프로젝트 signing을 진행하면 배포를 할 수 있습니다.
-
-```
-$ flutter run
-```
-
-시뮬레이터와 마찬가지로 run 해줍니다.
+리눅스는 Flutter로 안드로이드앱만 만들 수 있으므로 안드로이드 스튜디오를 설치하고 설정합니다.
+빌드하려면 위와 같이 작성하고 프로젝트 폴더에서 run해주면 됩니다.
 
 ## Android 설정하기
 
 안드로이드 기기 혹은 가상머신으로 앱을 배포하려면 안드로이드 스튜디오(가상 기기 포함)를 설치하면 됩니다.
 
 안드로이드 스튜디오에서 flutter 플러그인을 설치해줍니다.
+
+안드로이드 라이선스에 동의하는 작업을 해야 할 수도 있습니다.
 
 ## 안드로이드 기기 설정하기
 
