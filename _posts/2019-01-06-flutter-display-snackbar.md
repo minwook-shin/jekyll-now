@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flutter로 위젯 페이드 인 아웃하는 앱 만들어보기
+title: flutter로 스낵바 출력하는 앱 만들어보기
 ---
 
 오늘은 flutter로 snackbar 구현 앱을 만들어보려 합니다.

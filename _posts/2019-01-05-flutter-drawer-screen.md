@@ -1,6 +1,6 @@
 ---
 layout: post
-title: flutter로 위젯 페이드 인 아웃하는 앱 만들어보기
+title: flutter로 드로우 화면 만들어보기
 ---
 
 오늘은 flutter로 drawer screen을 구현한 앱을 만들어보려 합니다.
