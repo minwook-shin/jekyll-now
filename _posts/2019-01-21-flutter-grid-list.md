@@ -54,7 +54,7 @@ List.generate로 위젯들을 모아둔 리스트를 만들어줍니다.
     return GridView.count(
 ```
 
-MyApp이라는 StatelessWidget 클래스에서 리스트뷰를 구성합니다.
+MyApp이라는 StatelessWidget 클래스에서 그리드뷰를 구성합니다.
 
 ```dart
       crossAxisCount: 5,
