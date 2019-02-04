@@ -129,7 +129,7 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:entering_text_widget_test/main.dart';
 ```
 
-
+위젯의 키를 사용하기 위한 material 패키지와 위젯 테스트를 위한 flutter_test 패키지를 가져옵니다.
 
 ```dart
 void main() {
@@ -137,32 +137,33 @@ void main() {
     await tester.pumpWidget(MyApp());
 ```
 
-
+pumpWidget으로 메인 코드의 MyApp 객체를 화면에 그려줍니다.
 
 ```dart
     await tester.enterText(find.byKey(Key('textForm')), "hello");
 ```
 
-
+enterText로 'textForm'으로 기록되있는 키를 저장하고 있는 위젯을 찾아서 특정 문자열을 입력시킵니다.
 
 ```dart
     await tester.tap(find.byKey(Key('button')));
 ```
 
-
+tap으로 특정 키 값을 가진 버튼을 눌러줍니다.
 
 ```dart
     await tester.pump();
 ```
 
-
+pump 메소드로 화면을 새로 고쳐줍니다.
 
 ```dart
     expect(find.byKey(Key('text')), findsOneWidget);
-    expect(find.text("world! hello,"), findsNothing);
   });
 }
 ```
+
+'text'라는 키 값이 저장된 text 위젯이 존재하는지 테스트할 수 있습니다.
 
 ## 테스트 진행하기
 
