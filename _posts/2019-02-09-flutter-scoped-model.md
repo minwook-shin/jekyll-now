@@ -3,7 +3,7 @@ layout: post
 title: flutter에서 Scoped Model 적용하기
 ---
 
-오늘은 flutter 프로젝트에서 Scoped Model로 앱을 만드는 방법을 작성하려 합니다.
+오늘은 flutter 프로젝트에서 Scoped Model 구조로 만드는 방법을 작성하려 합니다.
 
 Scope Model은 구글의 새로운 운영체제인 퓨시아(Fuchsia)에서 사용되는 gui인 flutter에 Model의 구조로 사용되고 있다고 합니다.
 
