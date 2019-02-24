@@ -79,12 +79,12 @@ http://localhost:3000/user?id=0
 import aiohttp
 import asyncio
 import json
-from typing import Dict, Tuple
+from typing import List, Tuple
 ```
 
 http에서 받아오는 데이터 처리와 비동기, 그리고 json을 파이썬 타입으로 변환하기 위한 json 패키지를 준비합니다.
 
-그리고 타입 명시를 위해 typing 패키지에서 Dict, Tuple을 가져옵니다.
+그리고 타입 명시를 위해 typing 패키지에서 List, Tuple을 가져옵니다.
 
 ```python
 loop = asyncio.get_event_loop()
@@ -105,33 +105,28 @@ async로 비동기 함수를 만들어주고, 파이썬 3.6부터 도입된 타�
 이 함수로 인해 아래에서 url을 넣으면 비동기적으로 데이터를 받게 됩니다.
 
 ```python
-async def getHttpData() -> Dict:
+async def getHttpData() -> List:
     async with aiohttp.ClientSession() as session:
         source: Tuple = await get(session, 'http://localhost:3000/user?id=0')
-        dictSource: Dict = json.loads(source[0])
-        dictSource.update({"status": source[1]})
+        dictSource: List = json.loads(source[0])
         return dictSource
 ```
 
-이 함수도 비동기 함수이며, Dict 타입으로 반환됩니다.
+이 함수도 비동기 함수이며, List 타입으로 반환됩니다.
 
-이전의 get 함수로 인하여 source에 들어가게 되면, 첫번째 값이 우리가 원하는 값이므로 이를 json.loads를 사용하여 파이썬 타입(dict)으로 변환해줍니다.
+이전의 get 함수로 인하여 source에 들어가게 되면, 첫번째 값이 우리가 원하는 값이므로 이를 json.loads를 사용하여 파이썬 타입(List)으로 변환해줍니다.
 
 변환된 채로 update에 의해 기존의 내용에서 status에 대한 값을 추가해보았습니다.
 
 ```python
-result: Dict = loop.run_until_complete(getHttpData())
+result: List = loop.run_until_complete(getHttpData())
 print(result)
 ```
 
 getHttpData()로 반환이 다 될때까지 기다리고 출력됩니다.
 
 ```json
-{
-  "id": 0,
-  "score": 100,
-  "status": 200
-}
+[{ "id": 0, "score": 100 }]
 ```
 
-status까지 포함된 결과물이 나오게 됩니다.
+결과물이 나오게 됩니다.
