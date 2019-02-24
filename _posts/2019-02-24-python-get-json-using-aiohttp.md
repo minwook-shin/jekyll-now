@@ -61,6 +61,12 @@ http://localhost:3000/user?id=0
 
 그 외에도 정렬 및 나누기도 가능합니다.
 
+```
+json-server --watch db.json
+```
+
+db.json 파일로 이름을 저장하고, json-server을 구동해주면 가짜 REST API 로컬 서버를 만들 수 있습니다.
+
 ## python으로 데이터 받기
 
 ```
