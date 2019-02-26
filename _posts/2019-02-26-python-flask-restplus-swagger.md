@@ -1,9 +1,9 @@
 ---
 layout: post
-title: python flask-restplus로 api 서버만들고, swagger 사용해보기
+title: python Flask-RESTPlus로 api 서버만들고, swagger 사용해보기
 ---
 
-오늘은 python으로 작동되는 flask 웹 프레임워크 기반의 flask-restplus를 가져다가 json을 반환해주는 api 서버를 만들어보고, swagger도 적용해보려 합니다.
+오늘은 python으로 작동되는 flask 웹 프레임워크 기반의 Flask-RESTPlus를 가져다가 json을 반환해주는 api 서버를 만들어보고, swagger도 적용해보려 합니다.
 
 ## Flask
 
