@@ -81,6 +81,8 @@ url에서 데이터를 가져오기 위한 urllib3 패키지와 json 패키지�
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 ```
 
+InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. 라면서 오류가 출력되면 코드에 위와 같이 작성해줘야 합니다.
+
 ```python
 def getData(url: str) -> Dict:
     http = urllib3.PoolManager()
