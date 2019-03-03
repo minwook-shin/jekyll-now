@@ -29,7 +29,7 @@ import 'package:flutter/material.dart';
 import 'package:battery/battery.dart';
 ```
 
-앱에 머티리얼 위젯을 추가할 수 있는 material 패키지와 배터리 상태를 알 수 있는 battery 패티지를 가져옵니다.
+앱에 머티리얼 위젯을 추가할 수 있는 material 패키지와 배터리 상태를 알 수 있는 battery 패키지를 가져옵니다.
 
 ```dart
 void main() => runApp(MyApp());
