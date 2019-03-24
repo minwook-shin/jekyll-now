@@ -67,7 +67,7 @@ from django.urls import path
 from . import views
 
 urlpatterns = [
-    path('', views.postList, name='postList'),
+    path('', views.List, name='List'),
 ]
 ```
 
@@ -97,7 +97,7 @@ from .models import Test
 
 
 # Create your views here.
-def postList(request):
+def List(request):
     testText = Test.objects.all()
     return render(request, 'list.html', {'testText': testText})
 ```
