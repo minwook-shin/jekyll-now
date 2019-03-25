@@ -28,9 +28,7 @@ class DB(models.Model):
 
 모델을 생성해주기 위해 앱의 models.py 파일에서 Model 클래스로 구성해줍니다.
 
-속성과 메소드를 구성하고, publish 메소드와 \_\_str\_\_ 메소드도 만들어줍니다.
-
-ForeignKey는 다른 모델을 링크하므로 User에 대한 정보를 가져옴을 알 수 있습니다.
+속성과 \_\_str\_\_ 메소드도 만들어줍니다.
 
 ```
 python3 manage.py makemigrations [앱 이름]
