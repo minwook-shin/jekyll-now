@@ -3,7 +3,7 @@ layout: post
 title: Python Django 프로젝트의 관리자 페이지 커스터마이징하기
 ---
 
-오늘은 Python django 프로젝트의 관리자 페이지를 커스터마이징을 해보고, 해보려 합니다.
+오늘은 Python django 프로젝트의 관리자 페이지를 커스터마이징을 해보려고 합니다.
 
 ## 이전 포스트
 
