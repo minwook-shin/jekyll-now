@@ -57,7 +57,7 @@ urlpatterns = [
 
 [해당 글](https://docs.djangoproject.com/ko/2.1/intro/tutorial07/#customizing-your-project-s-templates)의 설명으로 코드를 대체합니다.
 
-```{% extends 'admin/index.html' %}```를 새 문서 최상단에 기입한 뒤에 위 내용을 넣어주면 기존의 admin/index.html 파일을 확장해서 원하는 html 태그를 추가하거나 바꿀 수 있습니다.
+```{%``` extends 'admin/index.html' ```%}```를 새 문서 최상단에 기입한 뒤에 위 내용을 넣어주면 기존의 admin/index.html 파일을 확장해서 원하는 html 태그를 추가하거나 바꿀 수 있습니다.
 
 django 프로젝트의 templates 폴더에서 admin를 만들어서 넣으면 됩니다.
 
