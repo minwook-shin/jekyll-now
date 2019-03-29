@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Django 프로젝트의 관리자 페이지 인터페이스 변경하기
+title: Python Django 프로젝트의 관리자 페이지 인터페이스를 Grappelli로 변경하기
 ---
 
 오늘은 Python django 프로젝트의 관리자 페이지의 인터페이스를 스타일링해주는 grappelli을 적용해보려 합니다.
