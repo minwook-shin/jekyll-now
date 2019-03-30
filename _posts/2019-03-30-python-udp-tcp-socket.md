@@ -3,7 +3,7 @@ layout: post
 title: Python socket으로 UDP와 TCP 소켓 통신해보기
 ---
 
-오늘은 Python으로 인터넷 프로토콜인 UDP와 TCP으로 소켓 프로그래밍을 체험해보려 합니다.
+오늘은 Python으로 UDP와 TCP 소켓 프로그래밍을 체험해보려 합니다.
 
 ## 용어 정리
 
