@@ -3,7 +3,7 @@ layout: post
 title: Python 2D 플로팅 Matplotlib 라이브러리 알아보기
 ---
 
-오늘은 Python을 가지고 브라우저에서 데이터를 시각화할 수 있는 Matplotlib 패키지에 대하여 알아보려 합니다.
+오늘은 Python을 가지고 2D 플로팅할 수 있는 Matplotlib 패키지에 대하여 알아보려 합니다.
 
 ## Matplotlib 설치
 
