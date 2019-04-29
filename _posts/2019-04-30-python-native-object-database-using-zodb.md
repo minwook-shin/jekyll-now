@@ -47,7 +47,7 @@ import ZODB.FileStorage
 import transaction
 ```
 
-persistent 객체를 생성할 때에 필요한 것과 파일, 트랜젝션에 관련있는 FileStorage, transaction도 가져옵니다.
+persistent 객체를 생성할 때에 필요한 패키지와 파일, 트랜젝션에 관련있는 FileStorage, transaction도 가져옵니다.
 
 ```python
 class TestScore(persistent.Persistent):
@@ -87,7 +87,7 @@ data.fs 확장자의 파일 스토리지를 만듭니다.
     root.storage = TestScore()
 ```
 
-데이터베이스의 최상위 수준의 네임스페이스 역활을 하며, 해당 코드에서는 persistent 객체를 넣었습니다.
+루트는 데이터베이스의 최상위 수준의 네임스페이스 역활을 하며, 해당 코드에서는 persistent 객체를 넣어서 사용했습니다.
 
 ```python
     root.storage.visit(1)
@@ -103,7 +103,7 @@ data.fs 확장자의 파일 스토리지를 만듭니다.
     print(root.storage.score)
 ```
 
-커밋을 하고 싶지 않을 때에는 abort합니다.
+커밋을 하고 싶지 않을 때에는 abort할 수 있습니다.
 
 ```python
     save = transaction.savepoint()
@@ -127,4 +127,4 @@ data.fs 확장자의 파일 스토리지를 만듭니다.
     # print(root.storage.score)
 ```
 
-doom()을 하면 값을 변경할 수 없습니다.
+doom()을 하면 값을 더 이상 변경할 수 없습니다.
