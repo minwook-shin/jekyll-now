@@ -81,7 +81,7 @@ current_fs.writetext('test.txt', 'hello world!')
 current_fs.close()
 ```
 
-문자열을 기록한 파일을 만들 수 있습니다.
+문자열로 기록한 파일을 만들 수 있습니다.
 
 ```python
 with open_fs('.') as current_fs:
@@ -93,7 +93,7 @@ with open_fs('.') as current_fs:
         print(test_file.read())
 ```
 
-with as로 \_\_enter\_\_ 과 \_\_exit\*\* 를 자동으로 호출하여 close()를 별도로 하지 않아도 됩니다.
+with as로 \_\_enter\_\_ 과 \_\_exit\_\_ 를 자동으로 호출하여 close()를 별도로 하지 않아도 됩니다.
 
 ```python
 current_fs = open_fs('.')
@@ -116,7 +116,7 @@ current_fs = open_fs('.')
 if not current_fs.exists('text'):
     folder_fs = current_fs.makedirs('text')
     folder_fs.touch('__init__.py')
-    folder_fs.writetext('README.md', "## hello,world!")
+    folder_fs.writetext('README.md', "# hello,world!")
     print(folder_fs.listdir('/'))
 ```
 
