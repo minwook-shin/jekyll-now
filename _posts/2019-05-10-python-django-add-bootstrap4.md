@@ -119,32 +119,6 @@ INSTALLED_APPS = [
 
 INSTALLED_APPS는 'bootstrap4'를 추가합니다.
 
-## 테스트 뷰 생성
-
-```html
-{% extends 'bootstrap4/bootstrap4.html' %} {% load bootstrap4 %} {% block
-bootstrap4_content %}
-<div class="container">
-  <h1>
-    {% block bootstrap4_title %}{% block title %}django-bootstrap4{% endblock
-    %}{% endblock %}
-  </h1>
-
-  <p>
-    <a href="{% url 'home' %}">home</a>
-  </p>
-
-  {% autoescape off %}{% bootstrap_messages %}{% endautoescape %} {% block
-  content %} This is <em>bootstrap4</em> for <strong>Django</strong>. {%
-  bootstrap_button "Save" button_type="submit" button_class="btn-primary" %} {%
-  endblock %}
-</div>
-
-{% endblock %}
-```
-
-bootstrap4로 컨테이너와 버튼과 같은 컴포넌트를 추가할 수 있습니다.
-
 ```python
 # -*- coding: utf-8 -*-
 from django.shortcuts import render
@@ -154,7 +128,9 @@ def home(request):
     return render(request, "app/home.html")
 ```
 
-views.py 파일에서 render 함수로 이전에 만든 html 파일을 사용합니다.
+views.py 파일에서 render 함수로 html 파일을 사용합니다.
+
+html 파일은 [해당 링크](https://github.com/zostera/django-bootstrap4/blob/master/demo/templates/app/home.html)처럼 사용할 수 있습니다.
 
 ```python
 from django.contrib import admin
