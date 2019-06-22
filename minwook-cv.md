@@ -26,25 +26,27 @@ permalink: /minwook-cv/
 
 ## Experience
 
+* Buzzni (2019.04 ~ now)
+
+Data engineer
+
 * ZERO FOUNDERS (2018.06 ~ 2018.08, Kookmin University summer vacation Intern)
 
 Developed Android (Kotlin) application
 
 ## Skill
 
-* Programming : Kotlin, Go, Python, Java, C++, Bash
+* Programming : Kotlin, Go, Python, Java, C++
 
 * Languages : Korean, English
 
-* ect : Linux, Git, tex
+* ect : Linux, Git, Tex
 
 ## Side project
 
+* minwook-shin tech blog App - Flutter app
+
 * moim-android - AR, SNS app
-
-* moim-node - HTML / CSS / JavaScript + Typescript + express + ejs + bulma.io
-
-* moim-open-api - Golang rest api
 
 * offline-sns-android - offline SNS app
 
@@ -96,21 +98,9 @@ Developed Android (Kotlin) application
 
 * github/opensource.guide 
 
-* education/classroom
-
 * openstack/i18n
 
-* mozilla-l10n/www.mozilla.org 
-
-* mozilla/thimble.mozilla.org 
-
-* mozilla-services/screenshots 
-
-* mozilla/addons-server 
-
 * codecombat/codecombat 
-
-* yunit-io/yunit-old
 
 * kamilion/customizer
 
