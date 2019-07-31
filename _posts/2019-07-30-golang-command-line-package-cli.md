@@ -21,7 +21,7 @@ brew install go
 sudo apt-get install golang-go
 ```
 
-go get으로 github에서 호스팅되고 있는 argparse 패키지를 설치합니다.
+go get으로 github에서 호스팅되고 있는 cli 패키지를 설치합니다.
 
 ```
 go get github.com/mkideal/cli
