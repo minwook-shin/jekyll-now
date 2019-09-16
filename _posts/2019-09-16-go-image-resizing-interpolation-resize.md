@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Golang 패스 트레이싱 엔진 Resize 라이브러리 알아보기
+title: Golang 이미지 리사이징 Resize 라이브러리 알아보기
 ---
 
 오늘은 Golang으로 이미지의 크기를 재구성할 수 있는 Resize 라이브러리를 알아보려 합니다.
