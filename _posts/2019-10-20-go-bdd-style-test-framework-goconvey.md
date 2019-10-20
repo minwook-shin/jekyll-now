@@ -46,10 +46,10 @@ go get github.com/smartystreets/goconvey
 ## 예제
 
 ```go
-package main
+package test
 ```
 
-해당 소스코드를 실행 파일로 인식하게 해주도록 main이라고 선언합니다.
+해당 소스코드를 실행 파일로 인식하게 해주도록 main이라고 선언하지 않고 테스트를 위해 다른 이름을 적습니다.
 
 ```go
 import (
