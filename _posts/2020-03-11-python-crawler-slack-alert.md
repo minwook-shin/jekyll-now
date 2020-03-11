@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 클라우드에서 파이썬으로 원하는 사이트 데이터로 규칙적인 슬랙 알림받기
+title: GCP 인스턴스에서 파이썬 코드로 원하는 웹 데이터 가져와서 슬랙 알림받기
 ---
 
 오늘은 Google cloud platform의 Computing Engine f1 인스턴스에서 파이썬으로 원하는 데이터를 원하는 간격마다 슬랙 알림받는 방법을 소개하려 합니다. 
