@@ -90,7 +90,7 @@ requests.post(
 
 도커는 이미 로컬에서 설치되어 있다는 가정으로 해당 포스팅을 진행합니다.
 
-```cron
+```
 */30 * * * * /usr/local/bin/python3 /main.py > /proc/1/fd/1 2>/proc/1/fd/2
 ```
 
@@ -102,7 +102,7 @@ requests.post(
 
 crontab으로 특정 분 단위로 계속 반복하게 할 수 있다는 점을 이용하여 cron-job 이라는 파일로 저장해둡니다.
 
-```Docker
+```
 # 데비안 buster 기반 python 3.8.2
 FROM python:3.8.2-slim-buster
 
