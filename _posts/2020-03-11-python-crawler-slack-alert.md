@@ -90,7 +90,7 @@ requests.post(
 
 도커는 이미 로컬에서 설치되어 있다는 가정으로 해당 포스팅을 진행합니다.
 
-``cron
+```cron
 */30 * * * * /usr/local/bin/python3 /main.py > /proc/1/fd/1 2>/proc/1/fd/2
 ```
 
