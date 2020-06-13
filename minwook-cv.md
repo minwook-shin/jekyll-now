@@ -48,8 +48,6 @@ Developed Android (Kotlin) application
 
 * moim-android - AR, SNS app
 
-* offline-sns-android - offline SNS app
-
 * kookmin-university-home - Chrome Extension app
 
 * etc...
