@@ -65,7 +65,7 @@ flutter config --no-analytics
 
 ## Homebrew 사용한 android-sdk 설치
 
-원래는 안드로이드 스튜디오를 설치할 때 같이 설치하는 android-sdk를 Homebrew로 별도 설치합니다.
+원래 안드로이드 스튜디오를 설치할 때 같이 포함되는 android-sdk를 Homebrew로 별도 설치합니다.
 
 Android SDK 패키지를 설치하고 업데이트하거나 제거할 수 있습니다.
 
@@ -95,7 +95,7 @@ source .zshrc
 mkdir -p .android && touch ~/.android/repositories.cfg
 ```
 
-만약 repositories.cfg 관련 오류가 발생한다면, .android 폴더를 생성하고 repositories.cfg 파일를 만들어줍니다.
+만약 repositories.cfg 관련 오류가 발생한다면, .android 폴더와 repositories.cfg 파일를 만듭니다.
 
 ## OpenJDK 설치
 
