@@ -30,9 +30,9 @@ permalink: /minwook-cv/
 
 Data engineer
 
-* ZERO FOUNDERS (2018.06 ~ 2018.08, Kookmin University summer vacation Intern)
+* ZERO FOUNDERS (2018.06 ~ 2018.08)
 
-Developed Android (Kotlin) application
+Kookmin University summer vacation Intern
 
 ## Skill
 
@@ -46,15 +46,25 @@ Developed Android (Kotlin) application
 
 * minwook-shin tech blog App - Flutter app
 
+https://play.google.com/store/apps/details?id=com.minwookshin.techblog&hl=ko
+
 * moim-android - AR, SNS app
 
 * kookmin-university-home - Chrome Extension app
+
+https://chrome.google.com/webstore/detail/국민대학교-홈/hcpfdokjdppdoogbpdahjonekohhcagm
 
 * etc...
 
 ## Writing
 
 * Thanos Gauntlets Algorithm With Python - Coauthor
+
+https://ridibooks.com/books/2773000015
+
+* microsoftware 396: Literacy Adrenaline 
+
+https://www.imaso.co.kr/archives/5070
 
 ## Presentation
 
@@ -70,9 +80,17 @@ Developed Android (Kotlin) application
 
 ## Event Organizers
 
+* OSS Contributhon - Ubuntu Korean Translation 
+
+https://www.oss.kr/contributhon_project/show/f381b3e5-88ef-4a74-9f6a-e5b184e7695f
+
 * Ubuntu korea L10n workshop
 
+https://www.onoffmix.com/event/106672
+
 * Ubuntu korea c++ basic study
+
+https://wiki.ubuntu-kr.org/index.php/C%2B%2B_Basic_Study
 
 ## Open Source Community Experience
 
