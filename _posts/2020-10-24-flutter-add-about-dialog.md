@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
 먼저 세로를 기준으로 가운데 정렬합니다.
 
-```
+```dart
           children: <Widget>[
             MaterialButton(
                 onPressed: () {
