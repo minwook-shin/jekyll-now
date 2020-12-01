@@ -36,11 +36,11 @@ Kookmin University summer vacation Intern
 
 ## Skill
 
-* Programming : Kotlin, Go, Python, Java, C++
+* Programming : Python, Kotlin, Go, Java
 
 * Languages : Korean, English
 
-* ect : Linux, Git, Tex
+* ect : Linux, Git, Docker,  Tex
 
 ## Side project
 
@@ -112,7 +112,9 @@ https://wiki.ubuntu-kr.org/index.php/C%2B%2B_Basic_Study
 
 ### Contributor
 
-* github/opensource.guide 
+* [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+* [github/opensource.guide](https://github.com/github/opensource.guide)
 
 * openstack/i18n
 
