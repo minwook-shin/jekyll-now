@@ -28,7 +28,9 @@ permalink: /minwook-cv/
 
 * Buzzni (2019.04 ~ now)
 
-Data engineer
+Data engineer (product DB upsert & monitoring / log data pipeline)
+
+tech : python / docker / k8s / AWS S3, SNS, Lambda, SQS / filebeat + elk / gitflow / etc...
 
 * ZERO FOUNDERS (2018.06 ~ 2018.08)
 
@@ -40,7 +42,7 @@ Kookmin University summer vacation Intern
 
 * Languages : Korean, English
 
-* ect : Linux, Git, Docker,  Tex
+* ect : Linux, Git, Docker, AWS service (s3, sqs, sns, lambda), Tex
 
 ## Side project
 
